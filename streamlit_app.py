@@ -9,6 +9,6 @@ st.header("Pengecek Nilai Genap/Ganjil")
 angka = st.number_input("Masukkan Angka:", value=0, step=1)
 
 if (angka %2) == 0:
-    st.write(f"{angka} yaitu Bilangan Genap cuyy")
+    st.write(f"{angka} itu Bilangan Genap cuyy")
 else:
-    st.write(f"{angka} yaitu Bilangan Ganjil cuyy")
+    st.write(f"{angka} itu Bilangan Ganjil cuyy")
