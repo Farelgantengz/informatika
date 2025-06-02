@@ -4,4 +4,4 @@ st.title("lagi makan ayam geprek")
 st.write(
     "AKHIRNYA BISA BIKIN AKUNNNN"
 )
-st.image("mantaprek.jpg")
+st.image("mantaprek.png")
